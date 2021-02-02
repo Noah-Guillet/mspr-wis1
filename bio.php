@@ -42,7 +42,7 @@
             </div>
         </div>
     </section>
-
+    
     <section id="bio-img">
         <img src="image/Pollution-1.jpg">
     </section>
