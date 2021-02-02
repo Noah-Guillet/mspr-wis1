@@ -31,20 +31,36 @@
             </div>
 
             <div class="card" style="width: 18rem;">
-                <img src="image/eau-capsule.jpg" class="card-img-top" alt="#">
+                <img src="image/pollution.jpg" class="card-img-top" alt="#">
                 <div class="card-body">
                     <p class="card-text">Entièrement comestible et biodégradable, cette nouvelle forme de packaging a
                         pour but de réduire le nombre de déchets plastiques ainsi que les coûts de production. Se
                         présentant alors comme une véritable solution alternative aux bouteilles d’eau omniprésentes
-                        dans nos rayons,
+                        dans nos rayons.
                     </p>
                 </div>
             </div>
-
-
         </div>
     </section>
+    
+    <section id="bio-img">
+        <img src="image/Pollution-1.jpg">
+    </section>
 
+    <section id="bio-txt">
+        <div class="container">
+        <p>
+            Composante essentielle de tous les êtres vivants, l’eau est aussi un milieu de vie pour certains d’entre
+            eux. Elle circule sans cesse, des précipitations vers les eaux de surface (cours d’eau, rivières, fleuves,
+            lacs, etc.), la végétation (sauvage et agricole), les eaux souterraines (nappes), les mers et les océans.
+            Sous l’effet des activités humaines, elle fait l’objet de nombreuses pollutions susceptibles d’affecter la
+            biodiversité et la santé humaine. Protéger la ressource en eau constitue donc un enjeu majeur. Le Service
+            des données et études statistiques (SDES) et l’Office français de la biodiversité (OFB) s’inscrivent dans
+            cette démarche en informant et sensibilisant régulièrement l’ensemble des acteurs sur les enjeux liés à la
+            préservation de l’eau et des milieux aquatiques.
+        </p>
+        </div>
+    </section>
 </main>
 
 <?php require_once 'layout/footer.php' ?>
