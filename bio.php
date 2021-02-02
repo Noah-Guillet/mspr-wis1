@@ -31,18 +31,20 @@
             </div>
 
             <div class="card" style="width: 18rem;">
-                <img src="image/eau-capsule.jpg" class="card-img-top" alt="#">
+                <img src="image/pollution.jpg" class="card-img-top" alt="#">
                 <div class="card-body">
                     <p class="card-text">Entièrement comestible et biodégradable, cette nouvelle forme de packaging a
                         pour but de réduire le nombre de déchets plastiques ainsi que les coûts de production. Se
                         présentant alors comme une véritable solution alternative aux bouteilles d’eau omniprésentes
-                        dans nos rayons,
+                        dans nos rayons.
                     </p>
                 </div>
             </div>
-
-
         </div>
+    </section>
+    
+    <section id="bio-img">
+        <img src="image/Pollution-1.jpg">
     </section>
 
 </main>
