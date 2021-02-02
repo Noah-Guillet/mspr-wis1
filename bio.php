@@ -1,6 +1,7 @@
 <?php require_once 'layout/header.php' ?>
 
 <main>
+
 </main>
 
-<?php require_once 'layout/footer.php' ?>
+<?php require_once  'layout/footer.php' ?>
