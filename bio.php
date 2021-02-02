@@ -42,11 +42,25 @@
             </div>
         </div>
     </section>
-    
+
     <section id="bio-img">
         <img src="image/Pollution-1.jpg">
     </section>
 
+    <section id="bio-txt">
+        <div class="container">
+        <p>
+            Composante essentielle de tous les êtres vivants, l’eau est aussi un milieu de vie pour certains d’entre
+            eux. Elle circule sans cesse, des précipitations vers les eaux de surface (cours d’eau, rivières, fleuves,
+            lacs, etc.), la végétation (sauvage et agricole), les eaux souterraines (nappes), les mers et les océans.
+            Sous l’effet des activités humaines, elle fait l’objet de nombreuses pollutions susceptibles d’affecter la
+            biodiversité et la santé humaine. Protéger la ressource en eau constitue donc un enjeu majeur. Le Service
+            des données et études statistiques (SDES) et l’Office français de la biodiversité (OFB) s’inscrivent dans
+            cette démarche en informant et sensibilisant régulièrement l’ensemble des acteurs sur les enjeux liés à la
+            préservation de l’eau et des milieux aquatiques.
+        </p>
+        </div>
+    </section>
 </main>
 
 <?php require_once 'layout/footer.php' ?>
