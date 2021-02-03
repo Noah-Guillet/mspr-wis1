@@ -10725,29 +10725,6 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-<<<<<<< HEAD
-#bio-jumbotron {
-  padding: 85px;
-  background-color: #0d6efd;
-  text-align: center;
-}
-
-#bio-cards {
-  background-color: #F8F8F8F8;
-  padding: 50px;
-}
-
-#bio-cards .card {
-  box-shadow: 0 0 5px 1px black;
-}
-
-#bio-cards {
-  display: flex;
-  justify-content: center;
-  align-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-=======
 * {
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
@@ -10779,5 +10756,25 @@ textarea.form-control-lg {
 #home-entete .titre {
   padding-top: 300px;
   padding-left: 200px;
->>>>>>> master
+}
+
+#bio-jumbotron {
+  text-align: center;
+}
+
+#bio-cards {
+  background-color: #F8F8F8F8;
+  padding: 150px;
+}
+
+#bio-cards .card {
+  box-shadow: 0 0 5px 1px black;
+}
+
+#bio-cards {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-wrap: wrap;
 }
