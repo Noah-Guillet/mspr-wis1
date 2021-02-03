@@ -2,16 +2,15 @@
 
 <main>
     <section id="bio-jumbotron">
-        <div class="container">
+        <!--<div class="container" style="background-image: url('image/jumb-bio.jpg'); width:100%; height: 366px; " >-->
             <h1>Protection contre l'environnement</h1>
-            <img src="image/jumb-bio.jpg" class="img-fluid">
         </div>
     </section>
 
 
     <section id="bio-cards">
         <div>
-            <div class="card" style="width: 18rem;">
+            <div class="card card-bio" style="width: 18rem;">
                 <img src="image/bep.png" class="card-img-top" alt="#">
                 <div class="card-body">
                     <p class="card-text">Sur les 89 milliards de bouteilles en plastique,
@@ -20,7 +19,7 @@
                 </div>
             </div>
 
-            <div class="card" style="width: 18rem;">
+            <div class="card card-bio" style="width: 18rem;">
                 <img src="image/eau-capsule.jpg" class="card-img-top" alt="#">
                 <div class="card-body">
                     <p class="card-text">Constitué d’une double membrane sphérique produite à partir d’algues brunes et
@@ -30,7 +29,7 @@
                 </div>
             </div>
 
-            <div class="card" style="width: 18rem;">
+            <div class="card card-bio" style="width: 18rem;">
                 <img src="image/pollution.jpg" class="card-img-top" alt="#">
                 <div class="card-body">
                     <p class="card-text">Entièrement comestible et biodégradable, cette nouvelle forme de packaging a
