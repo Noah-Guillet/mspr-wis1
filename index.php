@@ -75,7 +75,7 @@
                     <img src="image/festival.jpg" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item">
-                    <img src="image/evenement.jpeg" class="d-block w-100" alt="...">
+                    <img src="image/evenement.jpg" class="d-block w-100" alt="...">
                 </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleInterval" role="button" data-bs-slide="prev">
@@ -91,5 +91,7 @@
     </section>
 
 </main>
+
+<a href class="btn btn-read-more"
 
 <?php require_once 'layout/footer.php' ?>
