@@ -27,22 +27,22 @@
 
     <section id="home-cards">
 
-        <div class="container">
-
             <div class="row align-items-start">
-                <div class="card">
-                    <img src="image/humaaans1.png" class="card-img-top" alt="...">
+                <div class="card-1">
+                    <img src="image/humaaans1.png"  alt="..." width="400" height="259"
                     <div class="card-body">
-                        <p class="card-text">Découvrez comment Bulleau participe a la protection de l'environnement</p>
+                        <div class="btn-1">
                         <button type="button" class="btn btn-outline-success">ÉCOLOGIE</button>
+                        </div>
                     </div>
                 </div>
                 <div class="col">
-                    <div class="card">
-                        <img src="image/humaaans2.png" class="card-img-top" alt="...">
+                    <div class="card-2">
+                        <img src="image/humaaans2.png" alt="..." width="400" height="259"
                         <div class="card-body">
-                            <p class="card-text">Découvrez comment Bulleau permet à la technologie d'avancer</p>
+                            <div class="btn-2">
                             <button type="button" class="btn btn-outline-info">TECHNOLOGIE</button>
+                            </div>
                         </div>
                     </div>
                 </div>
