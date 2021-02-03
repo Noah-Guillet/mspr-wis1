@@ -10777,6 +10777,7 @@ textarea.form-control-lg {
        column-count: 2;
   -moz-column-gap: 20px;
        column-gap: 20px;
+  background-color: #cdf5fd;
 }
 
 #bio-article img {
@@ -10791,4 +10792,8 @@ textarea.form-control-lg {
   align-content: center;
   align-items: center;
   flex-wrap: wrap;
+}
+
+#bio-cards .card {
+  background-color: #cdf5fd;
 }
