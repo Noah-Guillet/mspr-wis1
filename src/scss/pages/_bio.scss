@@ -12,9 +12,14 @@
   box-shadow: 0 0 5px 1px rgba(0, 0, 0.2);
 }
 
-#bio-article img {
-    display: block;
-    width: 100%;
-    height: auto;
+#bio-article  {
+  padding: 50px 0;
+  column-count: 2;
+  column-gap: 20px;
   }
+
+#bio-article img {
+  display: block;
+  width: 100%;
+  height: auto;
 }

@@ -10771,6 +10771,20 @@ textarea.form-control-lg {
   box-shadow: 0 0 5px 1px black;
 }
 
+#bio-article {
+  padding: 50px 0;
+  -moz-column-count: 2;
+       column-count: 2;
+  -moz-column-gap: 20px;
+       column-gap: 20px;
+}
+
+#bio-article img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 #bio-cards {
   display: flex;
   justify-content: center;
