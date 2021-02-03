@@ -56,7 +56,7 @@
 
         <div class="container">
             <h2>CONCEPTION</h2>
-            <p>L’eau est d'abord congelée sous forme de bulle puis trempée dans de la gélatine d’algues, gélatine qui bloque l’eau quand la glace fond</p>
+            <p>L’eau est d'abord congelée sous forme de bulle puis trempée dans de la gélatine d’algues, gélatine qui bloque l’eau quand la glace fond.</p>
 
         </div>
 
@@ -67,13 +67,13 @@
         <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active" data-bs-interval="10000">
-                    <img src="image/marathon.jpg" class="d-block w-100" alt="...">
+                    <img src="image/mara.jpg" class="d-block w-auto" alt="...">
                 </div>
                 <div class="carousel-item" data-bs-interval="2000">
-                    <img src="image/festival.jpg" class="d-block w-100" alt="...">
+                    <img src="image/fest.jpg" class="d-block w-auto" alt="...">
                 </div>
                 <div class="carousel-item">
-                    <img src="image/evenement.jpg" class="d-block w-100" alt="...">
+                    <img src="image/even.jpeg" class="d-block w-auto" alt="...">
                 </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleInterval" role="button" data-bs-slide="prev">
