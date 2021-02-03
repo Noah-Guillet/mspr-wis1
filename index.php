@@ -8,10 +8,12 @@
 
             <div class="row align-items-start">
                 <div class="col">
-                    One of three columns
+                    <div class="titre">
+                    <h1>Bulleau</h1>
+                    </div>
                 </div>
                 <div class="col">
-                    One of three columns
+                    <img src="image/capsule.jpg">
                 </div>
             </div>
             <div class="row align-items-center">
