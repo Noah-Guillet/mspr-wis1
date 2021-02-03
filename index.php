@@ -18,23 +18,19 @@
             </div>
             <div class="row align-items-end">
                 <div class="col">
-            </div>
+                </div>
 
-        </div>
+            </div>
 
     </section>
 
-    <br>
-    <br>
-    <br>
-    <br>
 
     <section id="home-cards">
 
         <div class="container">
 
             <div class="row align-items-start">
-                <div class="card" style="width: 18rem;">
+                <div class="card">
                     <img src="image/humaaans1.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-text">Découvrez comment Bulleau participe a la protection de l'environnement</p>
@@ -42,7 +38,7 @@
                     </div>
                 </div>
                 <div class="col">
-                    <div class="card" style="width: 18rem;">
+                    <div class="card">
                         <img src="image/humaaans2.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <p class="card-text">Découvrez comment Bulleau permet à la technologie d'avancer</p>
@@ -88,10 +84,68 @@
             </a>
         </div>
 
+
+        <div class="paragraphes">
+
+            <p>La capsule Bulleau sera mis en vente principalement lors de Marathon, Festival et Evenements</p>
+
+        </div>
+
     </section>
 
-</main>
+    <section id="home-tarifs"
 
-<a href class="btn btn-read-more"
+             <div class="container">
+
+                 <h2>TARIFS</h2>
+
+                 <p>Une Capsule Bulleau coute environ 20 centimes.</p>
+
+             </div>
+
+    <section id="formu">
+
+        <div class="container">
+
+            <form class="row g-3">
+                <div class="col-md-6">
+                    <label for="inputEmail4" class="form-label">Email</label>
+                    <input type="email" class="form-control" id="inputEmail4" placeholder="1234@abcd.fr">
+                </div>
+                <div class="col-12">
+                    <label for="inputAddress" class="form-label">Address</label>
+                    <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+                </div>
+                <div class="col-md-6">
+                    <label for="inputCity" class="form-label">Ville</label>
+                    <input type="text" class="form-control" id="inputCity" placeholder="Votre ville">
+                </div>
+                <div class="col-md-2">
+                    <label for="inputZip" class="form-label">Code Postal</label>
+                    <input type="text" class="form-control" id="inputZip" placeholder="Votre Code Postal">
+                </div>
+                <div class="col-12">
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" id="gridCheck">
+                        <label class="form-check-label" for="gridCheck">
+                            Accepter les CGU
+                        </label>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <button type="submit" class="btn btn-primary">Accepter</button>
+                </div>
+            </form>
+
+        </div>
+
+
+    </section>
+
+
+
+
+
+</main>
 
 <?php require_once 'layout/footer.php' ?>
