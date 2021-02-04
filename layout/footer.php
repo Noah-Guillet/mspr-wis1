@@ -39,71 +39,11 @@
             <circle class="drop drop6" cx="17.2" cy="4.8" r="9.2"  />
             <use id="wave1" class="wave" xlink:href="#wave" x="0" y="1" />
         </g>
-        <!-- g mask="url(#xxx)">
-        <path   id="wave1"  class="wave" d="M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z" />
-        </g>
-      </g -->
 
     </svg>
 
-    <div>done with fun - by &copy;<a href="www.chaba.de">Uwe Chardon</a></div>
-</footer>
+    <div>
 
-
-
-<!-- Footer
-<footer class="bg-light text-center text-lg-start">
-
-    <div class="container p-4">
-
-        <div class="row">
-
-            <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
-                <h5 class="text-uppercase">Bulleau</h5>
-
-                <p>
-                   Bulleau ....
-                </p>
-            </div>
-
-
-            <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-                <h5 class="text-uppercase mb-0">Réseaux</h5>
-
-                <ul class="list-unstyled">
-                    <li>
-                        <a href="#!" class="text-dark">Facebook</a>
-                    </li>
-                    <li>
-                        <a href="#!" class="text-dark">Twitter</a>
-                    </li>
-                    <li>
-                        <a href="#!" class="text-dark">Instragram</a>
-                    </li>
-                    <li>
-                        <a href="#!" class="text-dark">Linkedin</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="form-floating mb-3">
-                <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
-                <label for="floatingInput">Email address</label>
-            </div>
-
-        </div>
-
+        <p>Copyright 2021 - Bulleau - <a href="#">Mentions légal</a></p>
     </div>
-
-
-
-    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
-        © 2021 Copyright - Bulleau
-    </div>
-
 </footer>
-
-
-<script src="assets/js/app.js"></script>
-
-</body>
-</html>
