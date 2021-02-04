@@ -67,13 +67,13 @@
         <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active" data-bs-interval="10000">
-                    <img src="image/mara.jpg" class="d-block w-auto" alt="...">
+                    <img src="image/mara.jpg" class="d-block w-auto" alt="photo">
                 </div>
                 <div class="carousel-item" data-bs-interval="2000">
-                    <img src="image/fest.jpg" class="d-block w-auto" alt="...">
+                    <img src="image/fest.jpg" class="d-block w-auto" alt="photo">
                 </div>
                 <div class="carousel-item">
-                    <img src="image/even.jpeg" class="d-block w-auto" alt="...">
+                    <img src="image/even.jpeg" class="d-block w-auto" alt="photo">
                 </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleInterval" role="button" data-bs-slide="prev">

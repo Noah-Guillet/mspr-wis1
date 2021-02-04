@@ -10733,7 +10733,7 @@ textarea.form-control-lg {
 #home-cards {
   align-content: center;
   display: flex;
-  padding-left: 300px;
+  padding-left: 230px;
   justify-content: space-between;
   padding-top: 75px;
   padding-bottom: 75px;
@@ -10748,7 +10748,7 @@ textarea.form-control-lg {
 }
 
 #home-cards .btn-2 {
-  padding-left: 150px;
+  padding-left: 130px;
 }
 
 #home-entete {
@@ -10785,6 +10785,12 @@ textarea.form-control-lg {
 
 #bio-cards .card {
   box-shadow: 0 0 5px 1px black;
+}
+
+#bio-article img {
+  display: block;
+  width: 100%;
+  height: auto;
 }
 
 #bio-cards {
