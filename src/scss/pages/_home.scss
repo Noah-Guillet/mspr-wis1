@@ -1,5 +1,4 @@
 * {
-
   box-sizing: border-box;
   font-family: 'Roboto', sans-serif;
 }
@@ -7,8 +6,10 @@
 #home-cards {
   align-content: center;
   display: flex;
-  padding-left: 300px;
+  padding-left: 230px;
   justify-content: space-between;
+  padding-top: 75px;
+  padding-bottom: 75px;
 }
 
 #home-cards .card-1{
@@ -16,19 +17,32 @@
 }
 
 #home-cards .btn-1{
- padding-left: 150px;
+ padding-left:150px;
 }
 
 #home-cards .btn-2{
-  padding-left: 150px;
+  padding-left: 130px;
 }
 
 #home-entete {
   background-color: #9ed1ff;
-
 }
 
 #home-entete .titre {
   padding-top: 300px;
   padding-left: 200px;
+  color:  white;
+}
+
+#home-conception {
+  background-color: slategrey;
+  color: white;
+  padding-bottom: 30px;
+  padding-top: 50px;
+  text-align: center;
+}
+
+#home-carousel {
+  margin-top: 75px;
+  margin-left: 500px;
 }
