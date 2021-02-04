@@ -47,7 +47,7 @@
             </div>
     </section>
 
-
+<!--
     <section id="home-sm">
         <div class="sea">
             <div class="circle-wrapper">
@@ -69,6 +69,8 @@
             </div>
         </div>
     </section>
+-->
+
 
     <section id="home-events">
         <div class="container">
