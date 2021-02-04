@@ -1,14 +1,13 @@
 * {
+  box-sizing: border-box;
   font-family: 'Roboto', sans-serif;
-}
-
-#formulaire {
-padding: 100px;
   color: white;
 }
 
-#contact-titre {
+#faq-titre {
   text-align: center;
-  padding-top: 50px;
+}
+
+#faq-cards {
   color: white;
 }
