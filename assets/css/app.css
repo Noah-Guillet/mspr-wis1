@@ -11472,14 +11472,23 @@ svg {
   height: auto;
 }
 
-#bio-jumbotron1 {
+#techno-titre {
   text-align: center;
-  color: white;
+  padding-top: 75px;
+  padding-bottom: 38px;
 }
 
-#bio-jumbotron1 .titre1 {
-  padding-top: 200px;
-  font-size: xx-large;
+#tech-jumbotron .col1 {
+  padding: 37px;
+}
+
+#tech-jumbotron .col2 {
+  padding: 37px;
+  background-color: white;
+}
+
+#tech-jumbotron .col3 {
+  padding: 37px;
 }
 
 * {
