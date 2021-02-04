@@ -11503,6 +11503,11 @@ svg {
 
 #faq-titre {
   text-align: center;
+  padding-top: 75px;
+}
+
+#faq-accordeon {
+  padding: 75px;
 }
 
 #bio-cards {
