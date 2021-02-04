@@ -4,6 +4,7 @@
     <section id="bio-jumbotron">
         <div class="container"
              style="background: no-repeat url('image/fond-4k.jpg'); background-size: cover; height: 700px; min-width: 100%">
+            <div class="titre2"
             <h1>Protection contre l'environnement</h1>
         </div>
     </section>
@@ -14,7 +15,7 @@
             <div class="row align-items-start">
                 <div class="col">
                     <div class="card card-bio" style="width: 18rem;">
-                        <img src="image/bep.png" class="card-img-top" alt="#">
+                        <img src="image/bep.png " class="card-img-top" alt="#">
                         <div class="card-body">
                             <p class="card-text">Sur les 89 milliards de bouteilles en plastique,
                                 seulement 20% d’entre elles étaient recyclées. Une grande partie finissent
@@ -57,6 +58,7 @@
 
     <section id="bio-article">
                     <div class="container">
+                        <div class="article">
                         <p>
                             Composante essentielle de tous les êtres vivants, l’eau est aussi un milieu de vie pour certains d’entre
                             eux. Elle circule sans cesse, des précipitations vers les eaux de surface (cours d’eau, rivières,
@@ -73,6 +75,7 @@
                             la
                             préservation de l’eau et des milieux aquatiques.
                         </p>
+                        </div>
                     </div>
         <div>
             <img src="image/Pollution-1.jpg">
