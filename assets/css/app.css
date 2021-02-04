@@ -10732,6 +10732,7 @@ textarea.form-control-lg {
   background-color: white;
   width: 100%;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
+  color: black;
 }
 
 #header .container {
@@ -11019,6 +11020,7 @@ svg {
 .sea {
   margin: 40px auto 0 auto;
   overflow: hidden;
+  transform: scale(0.3);
 }
 .sea .bubble {
   position: absolute;
