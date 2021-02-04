@@ -11498,15 +11498,11 @@ svg {
 * {
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
-  color: white;
+  color: black;
 }
 
 #faq-titre {
   text-align: center;
-}
-
-#faq-cards {
-  color: white;
 }
 
 #bio-cards {

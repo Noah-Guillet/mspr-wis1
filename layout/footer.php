@@ -1,4 +1,5 @@
 <footer>
+
     <svg viewBox="0 0 120 28">
         <defs>
             <filter id="goo">
@@ -16,7 +17,6 @@
         <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2" ></use>
         <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" ></use>
 
-
         <g class="gooeff" filter="url(#goo)">
             <circle class="drop drop1" cx="20" cy="2" r="8.8"  />
             <circle class="drop drop2" cx="25" cy="2.5" r="7.5"  />
@@ -30,7 +30,6 @@
             <circle class="drop drop4" cx="3" cy="4.4" r="8.8"  />
             <circle class="drop drop5" cx="7" cy="4.1" r="7.5"  />
             <circle class="drop drop6" cx="10" cy="4.3" r="9.2"  />
-
             <circle class="drop drop1" cx="1.2" cy="5.4" r="8.8"  />
             <circle class="drop drop2" cx="5.2" cy="5.1" r="7.5"  />
             <circle class="drop drop3" cx="10.2" cy="5.3" r="9.2"  />
@@ -43,7 +42,11 @@
     </svg>
 
     <div>
-
         <p>Copyright 2021 - Bulleau - <a href="#">Mentions légal</a></p>
     </div>
 </footer>
+
+<script src="assets/js/app.js"></script>
+
+</body>
+</html>
