@@ -10939,7 +10939,7 @@ svg {
 #home-entete .container {
   position: relative;
   z-index: 0;
-  background-color: #9ED1FF;
+  background-color: #7f9fe5;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -10998,7 +10998,7 @@ svg {
 }
 
 #home-entete {
-  background-color: #9ed1ff;
+  background-color: #7f9fe5;
 }
 
 #home-entete .titre {

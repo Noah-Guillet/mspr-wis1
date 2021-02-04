@@ -22,7 +22,7 @@
 
     <section id="home-cards">
         <div class="container">
-            
+
             <div class="row align-items-start">
                 <div class="col">
                     <div class="card-1">
