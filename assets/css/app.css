@@ -10776,6 +10776,11 @@ textarea.form-control-lg {
 
 #bio-jumbotron {
   text-align: center;
+  font-size: xx-large;
+}
+
+#bio-jumbotron .titre2 {
+  padding-top: 200px;
 }
 
 #bio-cards {
@@ -10796,6 +10801,10 @@ textarea.form-control-lg {
   background-color: #cdf5fd;
 }
 
+#bio-article .article {
+  padding-top: 120px;
+}
+
 #bio-article img {
   display: block;
   width: 100%;
@@ -10806,6 +10815,16 @@ textarea.form-control-lg {
   display: block;
   width: 100%;
   height: auto;
+}
+
+#bio-jumbotron1 {
+  text-align: center;
+  color: white;
+}
+
+#bio-jumbotron1 .titre1 {
+  padding-top: 200px;
+  font-size: xx-large;
 }
 
 #bio-cards {

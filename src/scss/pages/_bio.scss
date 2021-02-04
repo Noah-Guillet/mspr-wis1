@@ -1,5 +1,10 @@
 #bio-jumbotron {
   text-align: center;
+  font-size: xx-large;
+}
+
+#bio-jumbotron .titre2 {
+  padding-top:200px;
 }
 
 #bio-cards {
@@ -17,6 +22,10 @@
   column-gap: 20px;
   background-color: #cdf5fd;
   }
+
+#bio-article .article {
+  padding-top: 120px;
+}
 
 #bio-article img {
   display: block;
