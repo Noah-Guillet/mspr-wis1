@@ -68,24 +68,9 @@ $color2: #D93A54;
 }
 
 #home-cards {
-  align-content: center;
-  display: flex;
-  padding-left: 230px;
-  justify-content: space-between;
-  padding-top: 75px;
-  padding-bottom: 75px;
-}
-
-#home-cards .card-1{
-  padding-right: 150px;
-}
-
-#home-cards .btn-1{
- padding-left:150px;
-}
-
-#home-cards .btn-2{
-  padding-left: 130px;
+  padding: 100px;
+  background-color: white;
+  text-align: center;
 }
 
 #home-entete {
@@ -99,7 +84,9 @@ $color2: #D93A54;
 }
 
 #home-sm {
-padding: 75px;
+padding: 100px;
+  background-color: $color1;
+  //min-height: 100vh;
 }
 
 *, *:before, *:after {
@@ -317,7 +304,7 @@ padding: 75px;
         }
       }
 
-      .leds-wrapper {
+      #home-sm .leds-wrapper {
         width: 53px;
         height: 13px;
         position: relative;
@@ -346,11 +333,9 @@ padding: 75px;
             background-color: white;
           }
           &:after {
-            margin-top:0px;
             margin-left:17px;
           }
           &:before {
-            margin-top:0px;
             margin-left:34px;
           }
         }
@@ -473,6 +458,7 @@ padding: 75px;
 }
 
 #home-events {
-  padding:75px ;
+  padding-top: 100px ;
+  padding-bottom:200px ;
   text-align: center;
 }

@@ -22,28 +22,31 @@
 
 
     <section id="home-cards">
-
-        <div class="row align-items-start">
-            <div class="card-1">
-                <img src="image/humaaans1.png" alt="..." width="400" height="259"
-                <div class="card-body">
-                    <div class="btn-1">
-                        <button type="button" class="btn btn-outline-success">ÉCOLOGIE</button>
+        <div class="container">
+            <div class="row align-items-start">
+                <div class="col">
+                    <div class="card-1">
+                        <img src="image/humaaans1.png" alt="..."
+                        <div class="card-body">
+                            <div class="btn-1">
+                                <button type="button" class="btn btn-outline-success">ÉCOLOGIE</button>
+                            </div>
+                        </div>
                     </div>
-                </div>
-            </div>
-            <div class="col">
-                <div class="card-2">
-                    <img src="image/humaaans2.png" alt="..." width="400" height="259"
-                    <div class="card-body">
-                        <div class="btn-2">
-                            <button type="button" class="btn btn-outline-info">TECHNOLOGIE</button>
+                    <div class="col">
+                        <div class="card-2">
+                            <img src="image/humaaans2.png" alt="..."
+                            <div class="card-body">
+                                <div class="btn-2">
+                                    <button type="button" class="btn btn-outline-info">TECHNOLOGIE</button>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
     </section>
+
 
     <section id="home-sm">
         <div class="sea">
@@ -71,7 +74,7 @@
         <div class="container">
             <div class="row align-items-start">
                 <div class="col">
-                   <img src="image/even.jpeg">
+                    <img src="image/even.jpeg">
                 </div>
                 <div class="col">
                     <img src="image/fest.jpg">
@@ -80,6 +83,9 @@
                     <img src="image/mara.jpg"
                 </div>
             </div>
+        </div>
+        <div class="container">
+            <h3></h3>
         </div>
     </section>
 </main>

@@ -10794,24 +10794,9 @@ textarea.form-control-lg {
   }
 }
 #home-cards {
-  align-content: center;
-  display: flex;
-  padding-left: 230px;
-  justify-content: space-between;
-  padding-top: 75px;
-  padding-bottom: 75px;
-}
-
-#home-cards .card-1 {
-  padding-right: 150px;
-}
-
-#home-cards .btn-1 {
-  padding-left: 150px;
-}
-
-#home-cards .btn-2 {
-  padding-left: 130px;
+  padding: 100px;
+  background-color: white;
+  text-align: center;
 }
 
 #home-entete {
@@ -10825,7 +10810,8 @@ textarea.form-control-lg {
 }
 
 #home-sm {
-  padding: 75px;
+  padding: 100px;
+  background-color: #306D85;
 }
 
 *, *:before, *:after {
@@ -11015,7 +11001,7 @@ textarea.form-control-lg {
   border-radius: 5px;
   background-color: #D93A54;
 }
-.sea .submarine-wrapper .hat .leds-wrapper {
+.sea .submarine-wrapper .hat #home-sm .leds-wrapper {
   width: 53px;
   height: 13px;
   position: relative;
@@ -11025,7 +11011,7 @@ textarea.form-control-lg {
   border-radius: 10px;
   background: linear-gradient(#b3233a, #a21f35);
 }
-.sea .submarine-wrapper .hat .leds-wrapper .leds {
+.sea .submarine-wrapper .hat #home-sm .leds-wrapper .leds {
   position: absolute;
   margin-top: 4px;
   margin-left: 7px;
@@ -11036,7 +11022,7 @@ textarea.form-control-lg {
   -webkit-animation: leds-off 500ms linear infinite;
           animation: leds-off 500ms linear infinite;
 }
-.sea .submarine-wrapper .hat .leds-wrapper .leds:after, .sea .submarine-wrapper .hat .leds-wrapper .leds:before {
+.sea .submarine-wrapper .hat #home-sm .leds-wrapper .leds:after, .sea .submarine-wrapper .hat #home-sm .leds-wrapper .leds:before {
   content: "";
   position: absolute;
   width: 5px;
@@ -11044,12 +11030,10 @@ textarea.form-control-lg {
   border-radius: 50%;
   background-color: white;
 }
-.sea .submarine-wrapper .hat .leds-wrapper .leds:after {
-  margin-top: 0px;
+.sea .submarine-wrapper .hat #home-sm .leds-wrapper .leds:after {
   margin-left: 17px;
 }
-.sea .submarine-wrapper .hat .leds-wrapper .leds:before {
-  margin-top: 0px;
+.sea .submarine-wrapper .hat #home-sm .leds-wrapper .leds:before {
   margin-left: 34px;
 }
 
@@ -11239,7 +11223,8 @@ textarea.form-control-lg {
   }
 }
 #home-events {
-  padding: 75px;
+  padding-top: 100px;
+  padding-bottom: 200px;
   text-align: center;
 }
 
