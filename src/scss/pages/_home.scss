@@ -83,19 +83,12 @@ $color2: #D93A54;
   color:  white;
 }
 
-#home-sm {
-padding: 100px;
-  background-color: $color1;
-  //min-height: 100vh;
-}
-
 *, *:before, *:after {
   box-sizing: border-box;
 }
 
 
 .sea {
-  margin: 40px auto 0 auto;
   overflow: hidden;
   transform: scale(0.3);
 
@@ -305,7 +298,7 @@ padding: 100px;
         }
       }
 
-      #home-sm .leds-wrapper {
+       .leds-wrapper {
         width: 53px;
         height: 13px;
         position: relative;
