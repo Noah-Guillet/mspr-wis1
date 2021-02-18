@@ -11521,6 +11521,12 @@ svg {
   padding: 75px;
 }
 
+#mentionl .mentionl-titre {
+  text-align: center;
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+
 #bio-cards {
   display: flex;
   justify-content: center;
