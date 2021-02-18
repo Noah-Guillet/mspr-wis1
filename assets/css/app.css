@@ -10728,11 +10728,9 @@ textarea.form-control-lg {
   }
 }
 #header {
-  padding: 15px 0;
   background-color: white;
   width: 100%;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
-  color: black;
 }
 
 #header .container {
@@ -10744,15 +10742,6 @@ textarea.form-control-lg {
 
 #header .navbar-brand {
   display: block;
-}
-
-#header .navbar-brand img {
-  width: 75px;
-  height: 50px;
-  -o-object-fit: contain;
-     object-fit: contain;
-  -o-object-position: center center;
-     object-position: center center;
 }
 
 /*-----Menu de navigation-----*/
@@ -11008,17 +10997,11 @@ svg {
   color: white;
 }
 
-#home-sm {
-  padding: 100px;
-  background-color: #306D85;
-}
-
 *, *:before, *:after {
   box-sizing: border-box;
 }
 
 .sea {
-  margin: 40px auto 0 auto;
   overflow: hidden;
   transform: scale(0.3);
 }
@@ -11201,7 +11184,7 @@ svg {
   border-radius: 5px;
   background-color: #D93A54;
 }
-.sea .submarine-wrapper .hat #home-sm .leds-wrapper {
+.sea .submarine-wrapper .hat .leds-wrapper {
   width: 53px;
   height: 13px;
   position: relative;
@@ -11211,7 +11194,7 @@ svg {
   border-radius: 10px;
   background: linear-gradient(#b3233a, #a21f35);
 }
-.sea .submarine-wrapper .hat #home-sm .leds-wrapper .leds {
+.sea .submarine-wrapper .hat .leds-wrapper .leds {
   position: absolute;
   margin-top: 4px;
   margin-left: 7px;
@@ -11222,7 +11205,7 @@ svg {
   -webkit-animation: leds-off 500ms linear infinite;
           animation: leds-off 500ms linear infinite;
 }
-.sea .submarine-wrapper .hat #home-sm .leds-wrapper .leds:after, .sea .submarine-wrapper .hat #home-sm .leds-wrapper .leds:before {
+.sea .submarine-wrapper .hat .leds-wrapper .leds:after, .sea .submarine-wrapper .hat .leds-wrapper .leds:before {
   content: "";
   position: absolute;
   width: 5px;
@@ -11230,10 +11213,10 @@ svg {
   border-radius: 50%;
   background-color: white;
 }
-.sea .submarine-wrapper .hat #home-sm .leds-wrapper .leds:after {
+.sea .submarine-wrapper .hat .leds-wrapper .leds:after {
   margin-left: 17px;
 }
-.sea .submarine-wrapper .hat #home-sm .leds-wrapper .leds:before {
+.sea .submarine-wrapper .hat .leds-wrapper .leds:before {
   margin-left: 34px;
 }
 

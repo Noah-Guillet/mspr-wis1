@@ -1,8 +1,8 @@
 <?php require_once 'head.php'; ?>
 
 <header id="header">
-    <div class="container">
-        <a class="navbar-brand" href="/html/">
+   <div class="container">
+        <a class="navbar-brand" href="./">
             <div class="sea" >
                 <div class="circle-wrapper">
                     <div class="bubble"></div>
