@@ -19,6 +19,23 @@
         </div>
     </section>
 
+    <section id="home-pres">
+        <div class="container">
+
+            <div class="row align-items-start">
+                <div class="col">
+                    <p>Une bouteille d'eau comestible est un emballage comestible pouvant contenir de l'eau. Cette « bouteille » résistante peut contenir de l'eau potable, hygiénique et biodégradable. Composé d'une double membrane d'alginate de sodium, cet emballage est biodégradable et peut même être ingéré par l'homme.</p>
+                </div>
+                <div class="col">
+                    <img src="image/capsule.jpg">
+                </div>
+            </div>
+
+
+
+        </div>
+    </section>
+
 
     <section id="home-cards">
         <div class="container">
