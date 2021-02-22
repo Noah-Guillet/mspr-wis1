@@ -29,7 +29,9 @@
                             </div>
                             </div>
                         <div class="col">
+                            <div class="tech-img">
                             <img src="image/boissons.jpg" >
+                            </div>
                         </div>
                     </div>
                 </div>
