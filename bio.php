@@ -2,7 +2,7 @@
 
 <main>
     <section id="bio-titre">
-            <h1>ECOLOGIE</h1>
+        <h1>ECOLOGIE</h1>
     </section>
 
     <main>
