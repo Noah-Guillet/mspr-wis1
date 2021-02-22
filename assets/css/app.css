@@ -10984,7 +10984,7 @@ svg {
 }
 #home-cards {
   padding: 100px;
-  background-color: white;
+  background-color: 7f9fe5;
   text-align: center;
 }
 
@@ -11411,6 +11411,10 @@ svg {
   padding-bottom: 50px;
   text-align: center;
   background-color: #7f9fe5;
+}
+
+#home-pres {
+  background-color: white;
 }
 
 #home-pres .home-pres-texte {
