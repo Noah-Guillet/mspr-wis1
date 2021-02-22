@@ -41,7 +41,7 @@
 
     </svg>
 
-    <div>
+    <div
         <p>Copyright 2021 - Bulleau - <a href="#">Mentions légal</a></p>
     </div>
 </footer>
