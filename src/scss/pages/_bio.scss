@@ -1,39 +1,45 @@
-#bio-jumbotron {
+#bio-titre {
   text-align: center;
-  font-size: xx-large;
+  padding-top: 75px;
+  padding-bottom: 38px;
 }
 
-#bio-jumbotron .titre2 {
-  padding-top:200px;
+#bio-jumbotron .col1 {
+  padding: 37px;
 }
 
-#bio-cards {
-  background-color: #F8F8F8F8;
-  padding: 150px;
+#bio-jumbotron .col2 {
+  padding: 37px;
+  background-color: #4478e3;
 }
 
-#bio-cards .card {
-  box-shadow: 0 0 5px 1px rgba(0, 0, 0.2);
+#bio-jumbotron .col3 {
+  padding: 37px;
 }
 
-#bio-article  {
-  padding: 50px 0;
-  column-count: 2;
-  column-gap: 20px;
-  background-color: #cdf5fd;
-  }
-
-#bio-article .article {
-  padding-top: 120px;
+#bio-jumbotron .col4 {
+  padding: 37px;
+  background-color: #4478e3;
 }
 
-#bio-article img {
-  display: block;
-  width: 100%;
-  height: auto;
+#bio-jumbotron .bio-texte1 {
+  text-align: center;
+  padding-top: 150px;
 }
-#bio-article img {
-    display: block;
-    width: 100%;
-    height: auto;
+
+#bio-jumbotron .bio-texte2 {
+  text-align: center;
+}
+
+#bio-jumbotron .bio-texte3 {
+  text-align: center;
+  padding-bottom: 150px;
+}
+
+#bio-jumbotron .bio-texte4 {
+  text-align: center;
+}
+
+#tech-jumbotron .bio-img {
+  padding-left: 180px;
 }
