@@ -30,7 +30,7 @@
                 </div>
                 <div class="col">
                     <div class="home-pres-img">
-                    <img src="image/capsule.jpg">
+                    <img src="image/ooho-eau.jpg">
                     </div>
                 </div>
             </div>
