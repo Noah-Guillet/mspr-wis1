@@ -42,7 +42,7 @@
     </svg>
 
     <div
-        <p>Copyright 2021 - Bulleau - <a href="#">Mentions légal</a></p>
+        <p>Copyright 2021 - Bulleau - <a href="mentionl.php">Mentions légal</a></p>
     </div>
 </footer>
 
