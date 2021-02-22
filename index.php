@@ -50,16 +50,16 @@
                         <img src="image/Humaaans3.png" alt="..."
                         <div class="card-body">
                             <div class="btn-1">
-                                <button type="button" class="btn btn-outline-success">ÉCOLOGIE</button>
+                                <button type="button" class="btn btn-success">ECOLOGIE</button>
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div class="card-2">
-                            <img src="image/humaaans4.png" alt="..."
+                            <img src="image/humaaans2.png" alt="..."
                             <div class="card-body">
                                 <div class="btn-2">
-                                    <button type="button" class="btn btn-outline-info">TECHNOLOGIE</button>
+                                    <button type="button" class="btn btn-primary">TECHNOLOGIE</button>
                                 </div>
                             </div>
                         </div>

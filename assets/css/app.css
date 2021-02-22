@@ -10982,12 +10982,6 @@ svg {
     transform: scale(1);
   }
 }
-#home-cards {
-  padding: 100px;
-  background-color: 7f9fe5;
-  text-align: center;
-}
-
 #home-entete {
   background-color: #7f9fe5;
 }
@@ -11418,11 +11412,28 @@ svg {
 }
 
 #home-pres .home-pres-texte {
-  margin-top: 400px;
+  margin-top: 250px;
 }
 
-#home-pres .home-pres-img {
-  padding-left: 200px;
+#home-cards .btn-1 {
+  margin-left: 170px;
+}
+
+#home-cards .btn-2 {
+  margin-left: 130px;
+}
+
+#home-cards .card-1 {
+  margin-left: 150px;
+}
+
+#home-cards .card-2 {
+  margin-left: 50px;
+}
+
+#home-cards {
+  margin-top: 75px;
+  margin-bottom: 75px;
 }
 
 #bio-jumbotron {
