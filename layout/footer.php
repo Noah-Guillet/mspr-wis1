@@ -40,8 +40,18 @@
         </g>
 
     </svg>
+    
+<div>
+    <a href="https://www.facebook.com">
+        <img src="image/facebook.png" width="100" height="100">
+    </a>
 
-    <div
+    <a href="https://www.instagram.com">
+        <img src="image/insta.png" width="100" height="75"
+    </a>
+</div>
+
+    <div>
         <p>Copyright 2021 - Bulleau - <a href="mentionl.php">Mentions légal</a></p>
     </div>
 </footer>
