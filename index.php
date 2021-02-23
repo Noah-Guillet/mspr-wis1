@@ -49,7 +49,9 @@
                         <img src="image/Humaaans3.png" alt="..."
                         <div class="card-body">
                             <div class="btn-1">
+                                <a href="bio.php">
                                 <button type="button" class="btn btn-success">ECOLOGIE</button>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -58,7 +60,9 @@
                             <img src="image/humaaans2.png" alt="..."
                             <div class="card-body">
                                 <div class="btn-2">
+                                    <a href="techno.php">
                                     <button type="button" class="btn btn-primary">TECHNOLOGIE</button>
+                                    </a>
                                 </div>
                             </div>
                         </div>
