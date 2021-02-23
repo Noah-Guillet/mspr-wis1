@@ -10918,7 +10918,6 @@ svg {
 }
 * {
   box-sizing: border-box;
-  font-family: "Roboto", sans-serif;
 }
 
 #home-entete h1, #home-entete .h1 {
@@ -11437,6 +11436,12 @@ svg {
   margin-bottom: 75px;
 }
 
+h1, .h1 {
+  font-family: "Lobster Two", cursive;
+  text-shadow: 0px 1px 0px black;
+  color: white;
+}
+
 #bio-titre {
   text-align: center;
   padding-top: 75px;
@@ -11488,6 +11493,12 @@ svg {
   padding-left: 180px;
 }
 
+h1, .h1 {
+  font-family: "Lobster Two", cursive;
+  text-shadow: 0px 1px 0px black;
+  color: white;
+}
+
 #techno-titre {
   text-align: center;
   padding-top: 75px;
@@ -11530,8 +11541,10 @@ svg {
   color: white;
 }
 
-* {
-  font-family: "Roboto", sans-serif;
+h1, .h1 {
+  font-family: "Lobster Two", cursive;
+  text-shadow: 0px 1px 0px black;
+  color: white;
 }
 
 #formulaire {
@@ -11545,9 +11558,10 @@ svg {
   color: white;
 }
 
-* {
-  box-sizing: border-box;
-  font-family: "Roboto", sans-serif;
+h1, .h1 {
+  font-family: "Lobster Two", cursive;
+  text-shadow: 0px 1px 0px black;
+  color: white;
 }
 
 #faq-titre {
@@ -11558,6 +11572,12 @@ svg {
 
 #faq-accordeon {
   padding: 75px;
+  color: white;
+}
+
+h1, .h1 {
+  font-family: "Lobster Two", cursive;
+  text-shadow: 0px 1px 0px black;
   color: white;
 }
 
