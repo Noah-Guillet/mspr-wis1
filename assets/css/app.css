@@ -10732,6 +10732,7 @@ textarea.form-control-lg {
   background-color: white;
   width: 100%;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
+  color: black;
 }
 
 #header .container {
@@ -11436,53 +11437,62 @@ svg {
   margin-bottom: 75px;
 }
 
-#bio-jumbotron {
+#bio-titre {
   text-align: center;
-  font-size: xx-large;
+  padding-top: 75px;
+  padding-bottom: 38px;
+  color: white;
 }
 
-#bio-jumbotron .titre2 {
-  padding-top: 200px;
+#bio-jumbotron .col1 {
+  padding: 37px;
 }
 
-#bio-cards {
-  background-color: #F8F8F8F8;
-  padding: 150px;
+#bio-jumbotron .col2 {
+  padding: 37px;
+  background-color: #4478e3;
 }
 
-#bio-cards .card {
-  box-shadow: 0 0 5px 1px black;
+#bio-jumbotron .col3 {
+  padding: 37px;
 }
 
-#bio-article {
-  padding: 50px 0;
-  -moz-column-count: 2;
-       column-count: 2;
-  -moz-column-gap: 20px;
-       column-gap: 20px;
-  background-color: #cdf5fd;
+#bio-jumbotron .col4 {
+  padding: 37px;
+  background-color: #4478e3;
 }
 
-#bio-article .article {
-  padding-top: 120px;
+#bio-jumbotron .bio-texte1 {
+  text-align: center;
+  padding-top: 150px;
+  color: white;
 }
 
-#bio-article img {
-  display: block;
-  width: 100%;
-  height: auto;
+#bio-jumbotron .bio-texte2 {
+  text-align: center;
+  color: white;
 }
 
-#bio-article img {
-  display: block;
-  width: 100%;
-  height: auto;
+#bio-jumbotron .bio-texte3 {
+  text-align: center;
+  padding-bottom: 150px;
+  color: white;
+}
+
+#bio-jumbotron .bio-texte4 {
+  text-align: center;
+  color: white;
+}
+
+#tech-jumbotron .bio-img {
+  padding-left: 180px;
 }
 
 #techno-titre {
   text-align: center;
   padding-top: 75px;
   padding-bottom: 38px;
+  color: white;
 }
 
 #tech-jumbotron .col1 {
@@ -11501,19 +11511,23 @@ svg {
 #tech-jumbotron .tech-texte1 {
   text-align: center;
   padding-top: 150px;
+  color: white;
 }
 
 #tech-jumbotron .tech-texte2 {
   text-align: center;
+  color: white;
 }
 
 #tech-jumbotron .tech-texte3 {
   text-align: center;
   padding-bottom: 120px;
+  color: white;
 }
 
 #tech-jumbotron .tech-img {
   padding-left: 180px;
+  color: white;
 }
 
 * {
@@ -11534,22 +11548,28 @@ svg {
 * {
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
-  color: black;
 }
 
 #faq-titre {
   text-align: center;
   padding-top: 75px;
+  color: white;
 }
 
 #faq-accordeon {
   padding: 75px;
+  color: white;
 }
 
 #mentionl .mentionl-titre {
   text-align: center;
   padding-top: 75px;
   padding-bottom: 75px;
+  color: white;
+}
+
+#mentionl .mentionl-texte {
+  color: white;
 }
 
 #bio-cards {
